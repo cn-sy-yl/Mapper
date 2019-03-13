@@ -1,4 +1,4 @@
-# MyBatis 通用 Mapper4
+﻿# MyBatis 通用 Mapper4
 
 [![Build Status](https://travis-ci.org/abel533/Mapper.svg?branch=master)](https://travis-ci.org/abel533/Mapper)
 [![Maven central](https://maven-badges.herokuapp.com/maven-central/tk.mybatis/mapper/badge.svg)](https://maven-badges.herokuapp.com/maven-central/tk.mybatis/mapper)
@@ -69,3 +69,5 @@
 
 
 git测试
+
+O(∩_∩)O哈哈~
